@@ -1,0 +1,13 @@
+/.champs
+*~
+/temp
+/input
+/work
+/out
+__pycache__
+*.csv
+*.pyc
+*.log
+*.png
+*.html
+/.ipynb_checkpoints/
